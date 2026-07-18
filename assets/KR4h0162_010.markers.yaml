@@ -950,6 +950,7 @@ markers:
   - {type: line-break, offset: 2702, content: '', id: KR4h0162_WYG_010-11b08}
   - {type: indent, offset: 2702, content: 　　, id: KR4h0162_krp_010-bkkind56}
   - {type: punctuation, offset: 2706, content: (, id: KR4h0162_krp_010-bkkpn1}
+  - {type: voice, offset: 2706, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2707, content: /, id: KR4h0162_krp_010-bkkpn2}
   - {type: punctuation, offset: 2707, content: ), id: KR4h0162_krp_010-bkkpn3}
   - {type: 'kr:newline', offset: 2707, content: '
@@ -1616,6 +1617,7 @@ markers:
   - {type: indent, offset: 4582, content: 　　　　, id: KR4h0162_krp_010-bkkind105}
   - {type: substitution, offset: 4584, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20626}}
   - {type: punctuation, offset: 4592, content: (, id: KR4h0162_krp_010-bkkpn4}
+  - {type: voice, offset: 4592, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 4596, content: /, id: KR4h0162_krp_010-bkkpn5}
   - {type: punctuation, offset: 4599, content: ), id: KR4h0162_krp_010-bkkpn6}
   - {type: 'kr:newline', offset: 4599, content: '
@@ -1792,6 +1794,7 @@ markers:
   - {type: line-break, offset: 5092, content: '', id: KR4h0162_WYG_010-21a08}
   - {type: indent, offset: 5092, content: 　　, id: KR4h0162_krp_010-bkkind113}
   - {type: punctuation, offset: 5096, content: (, id: KR4h0162_krp_010-bkkpn7}
+  - {type: voice, offset: 5096, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 5097, content: /, id: KR4h0162_krp_010-bkkpn8}
   - {type: punctuation, offset: 5097, content: ), id: KR4h0162_krp_010-bkkpn9}
   - {type: 'kr:newline', offset: 5097, content: '
@@ -1932,4 +1935,4 @@ markers:
 
       ', id: KR4h0162_krp_010-bkkkrnewl395}
   back: []
-hash: sha256:a02fdcfa2cb3e6546cb31ebf524c5382979c07483d2e5081a59a89ca31f9ac6c
+hash: sha256:c134143025adb180c77d73868459a1340861792cac6e4247a5f75a4c1bbfad72
